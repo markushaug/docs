@@ -335,7 +335,7 @@ cds build
 :::
 
 
-### Add Postgres Deployment Configuration
+### Add PostgreSQL Deployment Configuration
 
 ```sh
 cds add postgres
